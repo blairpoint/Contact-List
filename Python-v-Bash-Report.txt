@@ -1,0 +1,31 @@
+Differences between Python and Bash
+
+This report will breifly explain the differences I noticed between Python3 and Bash during the development of a basic contact list application.
+
+
+Before breaking it down in to too much detail - The main difference that I noticed is that Bash isn't really a programming language - its an interpreter that scripts the use of linux commands in the bash shell with only moderate programatic functionality available.
+
+Python is a proper object oriented programming language that uses libraries and dictionaries and all of the other high level functionality that you might expect from a programming language.
+
+Certainly the way I wrote the code was different.
+
+In order to properly understand the difference between these 2 languages - I intentionally wrote my contact list application to operate the same way for the user and to read from its database file in the same way, same delimited format. I could have used libraries that allowed python to access a database or done other things to show off pythons power over bash but I felt that the most honest way to compare the 2 was by getting them to do as close to the same thing as I could.
+
+With Python the thing that I liked about it that Bash lacks is that it pretty much does what you say. Its very easy to read and to tell what your code is trying to do in a very streamlined way - but also extremely powerful.
+
+This same thing is pretty much impossible with bash because the scripting language itself is really just about ordering and looping external commands. Those external commands do all the work and they all work in different ways. Bash doesn't have the ability to create arrays or lists or anything so you have to rely on the data that is in memory at the time (apart from basic variables that are just used as links). Python can store functions and data sets in memory to be used internally throughout run-time. Bash is also very difficult to implement and very hard to read and understand unless you have some background knowledge of what its trying to do.
+
+For me the testing was quite different too. With Bash I tested each bit of code by running the command-line version of it in the console rather than in the script.. I did this until I knew it worked before putting it into the script. With python I just tested every peice of code as written in the python file.
+
+Python can be used anywhere that is running python or it can be compiled and packaged into an executable. It can also be used it many other different ways - As a frontend application or to do processes in the background in almost any environment or as an integration point between another system or programming language.
+Bash can only run as a script in a bash environment running on unix or a unix emulated environment. Because it cannot call upon libraries it cannot feasibly have any UI other than a console based interface.
+
+After learning a bit of python - I may never use bash again but I do think it has a place. I can imagine that particularly if you are distributing a package for installation or configuration on a unix based server that it would be useful for the administrator or sys admin and save a lot of time setting things up without the user having to learn all the command line instructions for an application or package.
+
+The main similarity between the 2 is that they can both be used as scripting languages. They both execute from top to bottom. Someone who used linux day in day out would probably lean towards bash whereas a programmer sitting in the same seat may lean towards python to do the same tasks.
+
+
+
+
+Blair Robson
+

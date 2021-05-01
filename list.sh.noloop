@@ -1,0 +1,12 @@
+#!/bin/sh
+
+CONTACTS="contacts.txt"
+
+echo "Name | Phone | Email"
+
+
+cut -d ";" -f 1,2,3 $CONTACTS
+
+read null
+
+

@@ -1,0 +1,6 @@
+Billy :  02133334444 ; juliano@me.com ; 23 something st ; Ngaio  ; Auckland
+blair ; 0213333333 ; blair.robson@icloud.com ; 62a tio tio road ; miramar ; Wellington
+Juliano ; 0213334456 ; juliano@me.com ; 34 something st ; Ngaio ; Wellington
+bobby; 02108770452 ; blair.robson@icloud.com ; 62a Tio Tio Road ; Miramar ; Wellington
+fred; 021666666 ; juliano@me.com ; 123 street ; ngaio ; wellington
+

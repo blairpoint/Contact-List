@@ -1,0 +1,8 @@
+Billy ;  02133334444 ; billyo@me.com ; 23 something st ; Ngaio  ; Auckland
+
+bobby; 02108770452 ; bobby.robson@icloud.com ; 62a Tio Tio Road ; Miramar ; Wellington
+
+fred; 021666666 ; fred@me.com ; 123 street ; ngaio ; wellington
+
+
+blair ; 02108770452 ; blair.robson@icloud.com ; 62a tio tio rd ; miramar  ; auckland
